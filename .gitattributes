@@ -1,0 +1,4 @@
+* text=auto
+/runtime/*.js text eol=lf
+/runtime/*.json text eol=lf
+*.cmd text eol=crlf

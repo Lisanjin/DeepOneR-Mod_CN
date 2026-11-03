@@ -1,0 +1,18 @@
+{
+  "commit": "263159b4f0531b1e93fc51891dc59017051d2ac0",
+  "capturedAt": "2026-10-28T07:09:20.429159+00:00",
+  "files": {
+    "assets/src/project.js": {
+      "bytes": 5764579,
+      "sha256": "587c740d1cc3b6097ba08df0cb745815da103ed8a9f576203f79e98d2326201b"
+    },
+    "assets/project.manifest": {
+      "bytes": 831168,
+      "sha256": "d4f246d9f7deea8e294d990b3a9ac8dd02b0676e798f31cb91a922ece48e0c82"
+    },
+    "assets/version.manifest": {
+      "bytes": 664,
+      "sha256": "5e70c527322679b64e70f7302ad8bf43e87c67a57f1233c397f4e8f31c67a148"
+    }
+  }
+}

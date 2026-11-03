@@ -1,0 +1,13 @@
+{
+  "release": "2.0.2",
+  "source_package": "jp.co.dmm.dmmgames.deeponer_a",
+  "target_package": "jp.co.dmm.dmmgames.deeponer_a_mod",
+  "application_label": "DeepOneR Mod",
+  "version_code_floor": 33,
+  "github_repository": "Lisanjin/DeepOne_translate_CN",
+  "github_branch": "main",
+  "github_pages_assets": "https://lisanjin.github.io/DeepOne_translate_CN/assets/",
+  "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+  "font_sha256": "a51388a2be1b43d9dbabea9a28a9d084274025ca105e0d034b95363d7fc6d50c",
+  "font_member_suffix": "/Humming-D.ttf"
+}
