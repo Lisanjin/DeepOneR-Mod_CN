@@ -1,8 +1,9 @@
 # DeepOneR 汉化 Mod APK 构建器
 
 用一份 DeepOneR 原版 Android APK 构建可安装的简体中文 Mod。游戏资源由官方更新，启动器按本地游戏资源版本加载对应的汉化脚本。日常汉化脚本更新通常只需重新启动游戏。
+以下内容是自行构建apk的说明，如果你仅仅需要游戏的汉化包，请前往[release页面](https://github.com/Lisanjin/DeepOneR-Mod_CN/releases)下载apk安装即可。使用之前使用anosu构建的apk需要卸载老版本mod重新安装。
 
-## 打包依赖哪些上游文件
+## 上游依赖
 
 构建器使用 `Lisanjin/DeepOne_translate_CN` 提供的 Android 原生汉化脚本和中文字体。首次运行 `prepare_assets.py` 时，脚本按 `vendor/pinned.json` 中记录的提交下载以下四个文件，校验 SHA-256 后保存在本地 `vendor/` 目录。无需克隆整个上游仓库。[上游汉化仓库](https://github.com/Lisanjin/DeepOne_translate_CN)
 
